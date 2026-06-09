@@ -4,6 +4,14 @@ ServiceSync is a streamlined full-stack service booking platform featuring a Nod
 
 ---
 
+## 🌐 Live Deployments
+
+*Please replace these placeholders with your actual deployed URLs:*
+- **Frontend Dashboard (Vercel)**: `https://servicesync-delta.vercel.app`
+- **Backend API Gateway (Render)**: `https://servicesync-backend-kin4.onrender.com`
+
+---
+
 ## 🚀 Quick Start Instructions
 
 Follow these steps to run the blockchain network, backend server, and frontend dashboard on your local machine.
